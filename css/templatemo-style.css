@@ -6,7 +6,7 @@ http://www.templatemo.com/tm-509-hydro
 
 */
 
-    @import url('https://cdn.jsdelivr.net/gh/52xd/hm_52xd.tv/css/css?family=Poppins:400,500,600');
+    @import url('https://cdn.jsdelivr.net/gh/52xd/hm_52xd_tv/css/css.css?family=Poppins:400,500,600');
 
     body {
         background: #ffffff;
@@ -334,7 +334,7 @@ http://www.templatemo.com/tm-509-hydro
   -----------------------------------------*/
 
     #home {
-        background: url('https://cdn.jsdelivr.net/gh/52xd/hm_52xd.tv/images/home-bg.jpg') no-repeat center center;
+        background: url('https://cdn.jsdelivr.net/gh/52xd/hm_52xd_tv/images/home-bg.jpg') no-repeat center center;
         background-size: cover;
         vertical-align: middle;
         display: -webkit-box;
@@ -502,7 +502,7 @@ http://www.templatemo.com/tm-509-hydro
     }
 
     #blog-header {
-        background: url('https://cdn.jsdelivr.net/gh/52xd/hm_52xd.tv/images/blog-header-bg.jpg') no-repeat center center;
+        background: url('https://cdn.jsdelivr.net/gh/52xd/hm_52xd_tv/images/blog-header-bg.jpg') no-repeat center center;
         background-size: cover;
         display: -webkit-box;
         display: -webkit-flex;
