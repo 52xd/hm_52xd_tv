@@ -109,8 +109,8 @@ function start () {
 }
 
 function visit () {
-    var u = '游客';
-    var p = '888888';
+    var u = 'youke';
+    var p = '88888888';
     $.ajax({
         url: base_url + '/login.php',
         data: 'u=' + u + '&p=' + p,
