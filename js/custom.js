@@ -173,7 +173,8 @@ function fix_code () {
             c: c,
             a: a,
             n: n,
-            i: i
+            i: i,
+            i2: i2
         },
         success: function success (msg) {
             var data = JSON.parse(msg);
